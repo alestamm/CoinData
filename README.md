@@ -1,5 +1,6 @@
+<img align="left" alt="Reddit" width="30px" src="https://cdn-icons-png.flaticon.com/512/1409/1409938.png" />
 Reddit Coin Data Agreggator
-
+<br/><br/>
 Technologies & Tools used:
 
 ![](https://img.shields.io/badge/Code-Python-blue?logo=Python&logoColor=yellow)
