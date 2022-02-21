@@ -1,3 +1,12 @@
+Reddit Coin Data Agreggator
+
+Technologies & Tools used:
+
+![](https://img.shields.io/badge/Code-Python-blue?logo=Python&logoColor=yellow)
+![](https://img.shields.io/badge/Code-Pandas-blue?logo=pandas&logoColor=yellow)
+![](https://img.shields.io/badge/Code-JupyterNotebook-blue?logo=Jupyter&logoColor=yellow)
+![](https://img.shields.io/badge/Code-GitHub-blue?logo=GitHub&logoColor=yellow)
+
 The objective of this program is to be a content agreggator for Reddit submissions based on the arguments passed to the API.
 Here as an example I'm using it to get daily submissions for the top 50 cryptocurrencies on CoinMarketCap.
 So first it uses the CoinMarketCap API to get all the criptocurrencies listed on the website.
