@@ -13,10 +13,7 @@ parameters = {
   'limit':'5000',
   'convert':'USD'
 }
-headers = {
-  'Accepts': 'application/json',
-  'X-CMC_PRO_API_KEY': '091b2fdb-8206-4013-b957-d29f6804203f',
-}
+
 cmc_data = requests.get(url, params=parameters, headers=headers).json()
 
 # Creating Coins dataset
